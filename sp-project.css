@@ -1,0 +1,39 @@
+body{
+	background-image:url("sp2.jpg");
+	background-size: cover;
+}
+
+h1 {
+    font-weight: 800;
+    color:white;
+}
+
+.top-buff1 { margin-top: 300px;}
+
+.top-buff2 { 
+    margin-top: 50px;
+}
+ button {
+     margin-left: 20px;
+ }
+
+ td {
+    font-weight: 800;
+    color:whitesmoke;
+ }
+
+ th {
+    font-weight: 800;
+    color:white;
+ }
+
+ #myData {
+     color: white;
+ }
+
+ .table1 {
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 200px;
+ }
